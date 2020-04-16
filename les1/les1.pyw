@@ -2,6 +2,6 @@ from tkinter import*
 
 root  = Tk()
 root.title("окошко")
-root.geometry("400x400")
+root.geometry("500x500")
 
 root.mainloop()
